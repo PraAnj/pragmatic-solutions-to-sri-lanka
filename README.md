@@ -10,6 +10,7 @@ We believe in the quote "Small things are the big things". Please find the solut
 2. Public instituational management
 3. People thinking pattern and behavior
 4. Industry specific recommendations
+5. Solutions to ground level issues hindering system change
 
 We need a solid plan on verifying the solutions before implementation state. This can be done via public opinion survey, member voting, expert level evaluation, statistical test or via any other consensus algorithm. If we have enough contributors, and support from university students these solutions can be evaluated as a project or via a proof of concept.
 
