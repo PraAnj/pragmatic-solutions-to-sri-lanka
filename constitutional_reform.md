@@ -2,6 +2,7 @@
 1. National list names should be published before the election and only be the final list, cannot be amended.
 2. National list names should be publicly defended before the election at a media briefing as to why they are suitable.
 3. National list MPs cannot be selected out of candidates rejected by at the election.
+4. National list MPs cannot be contested for presidency (or prime minister) in case the presidency position is vacanted. 
 
 
 # To be finalized
