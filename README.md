@@ -4,7 +4,7 @@
 
 This repo is created to identify issues in the functioning of the country which hinders the progress of the country. These are at various instituations, consititution, law and order, people behavior and thinking, political parties, and media. Minor adjusments in behavior of people, policy reforms, and information flow could bring in drastic improvements to the system. We plan to identify them and push them to the relevent people to implement. Following figure summarize the current system in brief.
 
-<img src="https://github.com/PraAnj/pragmatic-solutions-to-sri-lanka/blob/develop/current_political_system-Current%20System.drawio.png" data-canonical-src="https://github.com/PraAnj/pragmatic-solutions-to-sri-lanka/blob/develop/current_political_system-Current%20System.drawio.png" width="640" height=360 />
+![Current System](./current_political_system.drawio.png)
 
 ## What is(are) the proposed solution(s)?
 
