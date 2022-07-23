@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T18:52:30.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AvNcp1NDqtdMZNuCqX_p" version="20.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-23T17:32:51.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YQiFGdSG9POfmHia2Ft0" version="20.2.0" type="github" pages="3">
   <diagram id="dbkbzZTgA0J-7BCdUnlB" name="Background">
     <mxGraphModel dx="684" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="275" pageHeight="540" math="0" shadow="0">
       <root>
@@ -95,8 +95,8 @@
             <mxPoint x="451" y="212.51999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_LmJaqIPkXqoY1FvoVIZ-25" value="* Delaying updates to law&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Influence court decisions&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="511" y="103" width="150" height="30" as="geometry" />
+        <mxCell id="_LmJaqIPkXqoY1FvoVIZ-25" value="&lt;ul&gt;&lt;li&gt;Delaying updates to law&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Influence court decisions&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="471" y="90" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_LmJaqIPkXqoY1FvoVIZ-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#0011FF;" edge="1" parent="1" source="_LmJaqIPkXqoY1FvoVIZ-2" target="_LmJaqIPkXqoY1FvoVIZ-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -156,6 +156,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vLMPvYeP7vm7S7VRybIv-2" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Biased&amp;nbsp;&lt;/span&gt;appointments&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bad policies&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="624" y="23" width="179" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="m1blpipRJ87wNn31aoFj" name="Attacks">
+    <mxGraphModel dx="1234" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="271" pageHeight="540" background="#ffffff" backgroundImage="{&quot;src&quot;:&quot;data:page/id,O6Ix9L_fdKyqDHlMqsE7&quot;}" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
